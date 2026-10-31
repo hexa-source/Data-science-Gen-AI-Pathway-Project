@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-from src.utils import load_artifact
+from Delivarable1.src.utils import load_artifact
 
 FEATURE_ORDER = [
     'Customer_type', 'Account_type',

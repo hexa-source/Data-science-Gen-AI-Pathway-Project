@@ -4,3 +4,8 @@ __pycache__/
 *.pkl
 *.joblib
 data/
+artifacts/
+Deliverable4/
+Deliverable5/
+Deliverable2/MLSigmoid.py
+Final project/

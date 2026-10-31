@@ -2,7 +2,7 @@
 import time
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
-from src.preprocessor import preprocessor
+from Delivarable1.src.preprocessor import preprocessor
 
 data = "data/processed/bank_customer.csv"
 def segment_engine(data):
